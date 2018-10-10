@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sample-dashboard-thymeleaf.iml" filepath="$PROJECT_DIR$/sample-dashboard-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-dashboard-thymeleaf-kjar/sample-dashboard-thymeleaf-kjar.iml" filepath="$PROJECT_DIR$/sample-dashboard-thymeleaf-kjar/sample-dashboard-thymeleaf-kjar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-dashboard-thymeleaf-model/sample-dashboard-thymeleaf-model.iml" filepath="$PROJECT_DIR$/sample-dashboard-thymeleaf-model/sample-dashboard-thymeleaf-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-dashboard-thymeleaf-service/sample-dashboard-thymeleaf-service.iml" filepath="$PROJECT_DIR$/sample-dashboard-thymeleaf-service/sample-dashboard-thymeleaf-service.iml" />
+    </modules>
+  </component>
+</project>

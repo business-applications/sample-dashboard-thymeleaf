@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kie:kie-server-spring-boot-autoconfiguration-drools:7.13.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-server-spring-boot-autoconfiguration-drools/7.13.0-SNAPSHOT/kie-server-spring-boot-autoconfiguration-drools-7.13.0-20181009.174232-28.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-server-spring-boot-autoconfiguration-drools/7.13.0-SNAPSHOT/kie-server-spring-boot-autoconfiguration-drools-7.13.0-20181009.174232-28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-server-spring-boot-autoconfiguration-drools/7.13.0-SNAPSHOT/kie-server-spring-boot-autoconfiguration-drools-7.13.0-20181009.174232-28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

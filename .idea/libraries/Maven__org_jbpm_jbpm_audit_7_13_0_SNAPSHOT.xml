@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jbpm:jbpm-audit:7.13.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jbpm/jbpm-audit/7.13.0-SNAPSHOT/jbpm-audit-7.13.0-20181009.111951-27.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jbpm/jbpm-audit/7.13.0-SNAPSHOT/jbpm-audit-7.13.0-20181009.111951-27-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jbpm/jbpm-audit/7.13.0-SNAPSHOT/jbpm-audit-7.13.0-20181009.111951-27-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

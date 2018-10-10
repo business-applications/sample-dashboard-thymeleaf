@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.uberfire:uberfire-commons:2.10.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/uberfire/uberfire-commons/2.10.0-SNAPSHOT/uberfire-commons-2.10.0-20181009.061432-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/uberfire/uberfire-commons/2.10.0-SNAPSHOT/uberfire-commons-2.10.0-20181009.061432-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/uberfire/uberfire-commons/2.10.0-SNAPSHOT/uberfire-commons-2.10.0-20181009.061432-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

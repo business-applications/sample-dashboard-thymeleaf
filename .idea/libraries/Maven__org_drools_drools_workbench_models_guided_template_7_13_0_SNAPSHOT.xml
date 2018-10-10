@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.drools:drools-workbench-models-guided-template:7.13.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-workbench-models-guided-template/7.13.0-SNAPSHOT/drools-workbench-models-guided-template-7.13.0-20181009.152121-23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-workbench-models-guided-template/7.13.0-SNAPSHOT/drools-workbench-models-guided-template-7.13.0-20181009.152121-23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-workbench-models-guided-template/7.13.0-SNAPSHOT/drools-workbench-models-guided-template-7.13.0-20181009.152121-23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
