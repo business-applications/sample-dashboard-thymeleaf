@@ -1,0 +1,3 @@
+*.bpmn2 linguist-language=Java
+*.frm linguist-language=Java
+*.wid linguist-language=Java
