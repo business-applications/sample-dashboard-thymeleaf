@@ -56,58 +56,58 @@
 
   <profiles>  
     
-<profile>
-  <id>h2</id>
-  <activation>
-    <activeByDefault>true</activeByDefault>
-  </activation>
-  <dependencies>
-    <dependency>
-      <groupId>com.h2database</groupId>
-      <artifactId>h2</artifactId>
-    </dependency>
-  </dependencies>
-</profile>
+    <profile>
+      <id>h2</id>
+      <activation>
+        <activeByDefault>true</activeByDefault>
+      </activation>
+      <dependencies>
+        <dependency>
+          <groupId>com.h2database</groupId>
+          <artifactId>h2</artifactId>
+        </dependency>
+      </dependencies>
+    </profile>
 
-<profile>
-  <id>mysql</id>
-  <activation>
-    <property>
-      <name>mysql</name>
-    </property>
-  </activation>
-  <dependencies>
-    <dependency>
-      <groupId>mysql</groupId>
-      <artifactId>mysql-connector-java</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.h2database</groupId>
-      <artifactId>h2</artifactId>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
-</profile>
+    <profile>
+      <id>mysql</id>
+      <activation>
+        <property>
+          <name>mysql</name>
+        </property>
+      </activation>
+      <dependencies>
+        <dependency>
+          <groupId>mysql</groupId>
+          <artifactId>mysql-connector-java</artifactId>
+        </dependency>
+        <dependency>
+          <groupId>com.h2database</groupId>
+          <artifactId>h2</artifactId>
+          <scope>test</scope>
+        </dependency>
+      </dependencies>
+    </profile>
 
-<profile>
-  <id>postgres</id>
-  <activation>
-    <property>
-      <name>postgres</name>
-    </property>
-  </activation>
-  <dependencies>
-    <dependency>
-      <groupId>org.postgresql</groupId>
-      <artifactId>postgresql</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.h2database</groupId>
-      <artifactId>h2</artifactId>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
-</profile>
+    <profile>
+      <id>postgres</id>
+      <activation>
+        <property>
+          <name>postgres</name>
+        </property>
+      </activation>
+      <dependencies>
+        <dependency>
+          <groupId>org.postgresql</groupId>
+          <artifactId>postgresql</artifactId>
+        </dependency>
+        <dependency>
+          <groupId>com.h2database</groupId>
+          <artifactId>h2</artifactId>
+          <scope>test</scope>
+        </dependency>
+      </dependencies>
+    </profile>
         
     <profile>
       <id>docker</id>
@@ -176,6 +176,7 @@
         </plugins>
       </build>
     </profile>
+
     <profile>
       <id>openshift</id>
       <activation>
